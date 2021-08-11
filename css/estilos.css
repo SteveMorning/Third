@@ -23,9 +23,15 @@ se utiliza un .
 
 Selector de Id
 se utiliza #
+
 */
 
 .barra {
 background: silver;
 color: rebeccapurple;
+}
+
+#contacto{
+background: grey;
+
 }
