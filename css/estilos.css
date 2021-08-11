@@ -24,6 +24,9 @@ se utiliza un .
 Selector de Id
 se utiliza #
 
+
+El Navegador Tiene una Hoja de Estilos
+y cada navegador tiene una distinta
 */
 
 .barra {
@@ -32,6 +35,7 @@ color: rebeccapurple;
 }
 
 #contacto{
-background: grey;
-
+background: darkgrey;
 }
+
+
