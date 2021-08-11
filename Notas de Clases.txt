@@ -1,17 +1,3 @@
-/* 
-Reglas
-Selectores
-Declaraciones
-Propiedades
-Valores
-*/
-
-
-body{
-    background:gainsboro;
-}
-
-
 /* Seletor de Etiquetas
 header section article nav etc..
 
@@ -35,14 +21,3 @@ Colores hexadecimales
 Unidades de media Pixel
 
 */
-
-.barra {
-background: silver;
-color: rebeccapurple;
-}
-
-#contacto{
-background: darkgrey;
-}
-
-
