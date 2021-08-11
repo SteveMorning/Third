@@ -22,6 +22,8 @@ Unidades de media Pixel
 ---------------------------------
 Para inspeccionar elemento
 ctrl+shift+c
-
-
+---------------------------------
+Para tipos de letas
+https://fonts.google.com/
+Se agrega el Link en el Head
 */

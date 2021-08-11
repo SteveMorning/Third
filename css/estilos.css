@@ -9,8 +9,12 @@ Valores
 
 body{
     background:gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
+h2{
+    font-family:'Palette Mosaic';
+}
 
 /* Seletor de Etiquetas
 header section article nav etc..
