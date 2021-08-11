@@ -1,5 +1,31 @@
+/* 
+Reglas
+Selectores
+Declaraciones
+Propiedades
+Valores
+*/
+
 
 body{
-
     background:gainsboro;
+}
+
+
+/* Seletor de Etiquetas
+header section article nav etc..
+
+Selector descendente
+body header nav oi li a
+
+Selector de clases
+se utiliza un . 
+
+Selector de Id
+se utiliza #
+*/
+
+.barra {
+background: silver;
+color: rebeccapurple;
 }
