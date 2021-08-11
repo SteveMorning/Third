@@ -12,33 +12,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 
-h2{
-    font-family:'Palette Mosaic';
+h2 , h1{
+    font-family:'Caveat', cursive;
+    color: salmon; !important
 }
-
-/* Seletor de Etiquetas
-header section article nav etc..
-
-Selector descendente
-body header nav oi li a
-
-Selector de clases
-se utiliza un . 
-
-Selector de Id
-se utiliza #
-
-El Navegador Tiene una Hoja de Estilos
-y cada navegador tiene una distinta
-
-----------------------------------
-Colores con palabras clave
-son red , blue , transparent
-
-Colores hexadecimales
-Unidades de media Pixel
-
-*/
 
 .barra {
 background: silver;
