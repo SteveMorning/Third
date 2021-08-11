@@ -19,5 +19,9 @@ son red , blue , transparent
 
 Colores hexadecimales
 Unidades de media Pixel
+---------------------------------
+Para inspeccionar elemento
+ctrl+shift+c
+
 
 */
