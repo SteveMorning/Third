@@ -26,4 +26,10 @@ ctrl+shift+c
 Para tipos de letas
 https://fonts.google.com/
 Se agrega el Link en el Head
+---------------------------------
+display:block coloca los elementos para abajo
+display:inline coloca elementos uno al lado del otro
+display:inline-block coloca elementos uno al lado del otro
+
+
 */
