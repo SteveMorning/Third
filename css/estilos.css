@@ -33,3 +33,20 @@ h3{
     text-transform: capitalize;
     text-decoration: underline;
 }
+
+.header{
+    background-color: silver;
+    color: black;
+}
+
+.header a{
+    color: black;
+    text-decoration: none;
+}
+
+.hero{
+    background-image:url(https://estebanjuarezfotografia.com/assets/images/dsc-2156-editar-2-editar-2000x1289-79.jpg);
+    background-size: 70%;
+    background-position-x:400px;
+    background-repeat: no-repeat;
+}
