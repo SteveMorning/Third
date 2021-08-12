@@ -50,3 +50,10 @@ h3{
     background-position-x:400px;
     background-repeat: no-repeat;
 }
+
+#ximagen{
+border-color: red;
+border-style: double;
+border-radius: 10px;
+
+}
